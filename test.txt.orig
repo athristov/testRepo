@@ -1,0 +1,7 @@
+this is test 1
+
+<<<<<<< HEAD
+i want to make conflict..
+=======
+i made some changes from GitHub
+>>>>>>> 65a670544827d81994ac6167af56eb39b828262c
